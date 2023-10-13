@@ -1,0 +1,43 @@
+.Header
+{
+    display: flex;
+    align-items: center;
+    gap:40px;
+}
+
+.Header>img
+{
+    height:50px;
+}
+
+.img-icon
+{
+    width:30px;
+    border-radius: 50%;
+}
+
+.icon-div
+{
+    display: flex;
+    align-items: center;
+    gap:20px;
+}
+
+.Results
+{
+    padding: 40px 150px;
+}
+
+.Site
+{
+    width:700px
+}
+
+.Header>img
+{
+    cursor: pointer;
+}
+
+.site img-icon{
+    size: 35px;
+}

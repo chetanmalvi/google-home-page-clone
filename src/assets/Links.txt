@@ -1,0 +1,4 @@
+1. https://developers.google.com/custom-search/v1/overview
+2. https://programmablesearchengine.google.com/controlpanel/all
+3. https://www.googleapis.com/customsearch/v1?key={API_KEY}&cx=${CONTEXT_KEY}&q=${search_term}
+
